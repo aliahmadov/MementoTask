@@ -1,0 +1,16 @@
+C:\Users\eliah\source\repos\MementoTask\MementoTask\bin\Debug\MementoTask.exe.config
+C:\Users\eliah\source\repos\MementoTask\MementoTask\bin\Debug\MementoTask.exe
+C:\Users\eliah\source\repos\MementoTask\MementoTask\bin\Debug\MementoTask.pdb
+C:\Users\eliah\source\repos\MementoTask\MementoTask\obj\Debug\MementoTask.csproj.AssemblyReference.cache
+C:\Users\eliah\source\repos\MementoTask\MementoTask\obj\Debug\MementoTask.csproj.SuggestedBindingRedirects.cache
+C:\Users\eliah\source\repos\MementoTask\MementoTask\obj\Debug\Views\MainWindow.g.cs
+C:\Users\eliah\source\repos\MementoTask\MementoTask\obj\Debug\App.g.cs
+C:\Users\eliah\source\repos\MementoTask\MementoTask\obj\Debug\MementoTask_MarkupCompile.cache
+C:\Users\eliah\source\repos\MementoTask\MementoTask\obj\Debug\MementoTask_MarkupCompile.lref
+C:\Users\eliah\source\repos\MementoTask\MementoTask\obj\Debug\Views\MainWindow.baml
+C:\Users\eliah\source\repos\MementoTask\MementoTask\obj\Debug\MementoTask.g.resources
+C:\Users\eliah\source\repos\MementoTask\MementoTask\obj\Debug\MementoTask.Properties.Resources.resources
+C:\Users\eliah\source\repos\MementoTask\MementoTask\obj\Debug\MementoTask.csproj.GenerateResource.cache
+C:\Users\eliah\source\repos\MementoTask\MementoTask\obj\Debug\MementoTask.csproj.CoreCompileInputs.cache
+C:\Users\eliah\source\repos\MementoTask\MementoTask\obj\Debug\MementoTask.exe
+C:\Users\eliah\source\repos\MementoTask\MementoTask\obj\Debug\MementoTask.pdb

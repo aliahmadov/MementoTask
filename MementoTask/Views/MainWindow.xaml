@@ -1,0 +1,40 @@
+﻿<Window x:Class="MementoTask.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MementoTask"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel>
+            <Rectangle Margin="10" Width="500" Height="250" Stroke="Gray" StrokeDashArray="2">
+                <Rectangle.Fill>
+                    <ImageBrush ImageSource="{Binding ImageSource}" Stretch="Fill"></ImageBrush>
+                </Rectangle.Fill>
+            </Rectangle>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button Command="{Binding PrevCommand}" Margin="10">
+                    <Image Source="/Images/left.png" Width="40">
+                        
+                    </Image>
+                </Button>
+
+                <Button Command="{Binding NextCommand}" Margin="10">
+                    <Image Source="/Images/right.png" Width="40">
+
+                    </Image>
+                </Button>
+            </StackPanel>
+            <Button Command="{Binding ScreenShotCommand}" Margin="10,20,10,10" Width="200" FontSize="25" Background="Green"
+                    Foreground="White" FontWeight="DemiBold">
+                Take ScreenShot
+                <Button.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="10"></Setter>
+                    </Style>
+                </Button.Resources>
+            </Button>
+        </StackPanel>
+    </Grid>
+</Window>
